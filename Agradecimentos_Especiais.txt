@@ -1,0 +1,11 @@
+****************************************************************************************************
+*                                     AGRADECIMENTOS ESPECIAIS                                     *
+****************************************************************************************************
+
+    Agradecimentos especiais ao Canal Excript Brasil por disponibilizar gratuitamente no Youtube
+as aulas da biblioteca Tkinter referentes até a aula 13, usadas nesse módulo.
+
+Referências:
+[1]Canal Excript Brasil:
+https://www.youtube.com/watch?v=j94IGZmwtYI&list=PLesCEcYj003QxPQ4vTXkt22-E11aQvoVj
+[2]Livro Python 3.3.4 Tkinter/Ttk Widgets and Sqlite3
